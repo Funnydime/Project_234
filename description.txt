@@ -1,3 +1,3 @@
 Dimitri Rodriguez, Daniel Epps, Stephen Villanueva
 
-
+The project is a GUI "Graphical User Interface"
