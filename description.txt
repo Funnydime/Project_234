@@ -1,1 +1,1 @@
-The project is a GUI "Graphical User Interface".
+The project is a GUI "Graphical User Interface". We are creating a java program for a bookstore. This program will have a search engine that finds books based on the ISBN, Author, or Name. This search engine will find books in a database from a .txt file. 
