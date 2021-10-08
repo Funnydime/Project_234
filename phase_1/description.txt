@@ -1,6 +1,0 @@
-The goal of the project is creating an interface that organizes the daily transactions for the bookstore. Making it easier for customers to buy books and for employees to help them. It will make recording transactions easier for database. Users will be able to add books to their cart for buying them later.
-
-This program will have a search engine that finds books based on the ISBN, Author, or Name. The program will check for the one of the inputs.
-
-All Sales are final!
-
