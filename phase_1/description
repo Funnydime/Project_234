@@ -1,0 +1,10 @@
+Our program is a search engine/log that tracks user searches and checkouts. The first class encountered by the user will be menu, which will load the method initialmenu() and 
+prompt the user to make a selection of either (s)earch, or quit. If the user selects(s)earch, the user will be directed to the subclass searchmenu() with the options to search
+by (a)uthor, (i)sbn, (n)ame, (c)art menu or (q)uit. Depending on the input, one of the methods: isbnmenu(),namemenu(), or authormenu() will be called.
+	The corresponding method in the search class (searchmenu():authormenu() will call search():searchauthor()) and conduct a search from the user  input. The user will then
+be prompted to search via the isbn, name, or author. If there are results, the initialmenu() method from the class cartmenu() will load, prompting the user to add (a)ll, (n)one,
+or specific books that were loaded from the search. If a book is found, an object of class book will be created, and added to the listofbooks[] array in search. If the user adds
+a book, the object will be added to the cartlist []array in the cart() class via the method addcart().  
+	The search menu will then be loaded from the method initialmenu() in the subclass searchmenu(). Once the user has adjusted the cart respectively, they can checkout using
+the (c)heckout option in that calls the buycart() method in the cart class, and writes the information in the log file using the addToData() method in the log class. The user 
+will then be re-directed to the main menu via the initialmenu() method in the menu.
