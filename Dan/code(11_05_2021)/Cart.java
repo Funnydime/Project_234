@@ -130,6 +130,6 @@ public class Cart {
 	 
 	 
 	public static void CheckoutCart() {
-
+		Log();
 	}
 }
