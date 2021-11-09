@@ -5,7 +5,12 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 public class Log {
     ArrayList<String> logList;
-    int numberofBooks;
+    private int numberofBooks;
+
+    public Log(){
+        logList = new ArrayList<String>();
+        this.numberofBooks = numberofBooks;
+    }
 
     public void addToData(String logList[]){
         
