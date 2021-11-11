@@ -3,7 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-public class Log{
+public class Log {
     ArrayList<String> logList;
     private int numberofBooks;
 
@@ -24,7 +24,7 @@ public class Log{
 
         //Create a print writer
         PrintWriter pw = new PrintWriter(fw);
-        pw.write("Line 1");
+        pw.write("Map 1");
         pw.write("");
         pw.close();
     }
