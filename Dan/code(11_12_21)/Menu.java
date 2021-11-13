@@ -49,6 +49,7 @@ public class Menu {
 				if(!Cart.Cartitems.isEmpty()) {
 					//prints out cart to show user the options to select from
 					Cart.ViewCart();
+					System.out.println("If you want more than one book use a \",\" to separate values. Ex. 1,2,4 or 1,4,7");
 					System.out.println("\nPlease select a book to remove.\n(a)ll books\n(q)uit");
 					//prompting user input
 					input=in.nextLine();
