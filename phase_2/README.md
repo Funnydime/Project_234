@@ -85,3 +85,9 @@ Choosing cart the following will happen:
 Log will display a list of what has been checkout
 
 -----------------------------------------------------------------------------------------------------
+
+## Quit
+
+Will exit the program fully
+
+-----------------------------------------------------------------------------------------------------
