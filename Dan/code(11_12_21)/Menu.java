@@ -1,6 +1,5 @@
-//importing necessary java packages
 import java.util.Scanner;
-//Menu class created due to length and amount of menus
+
 public class Menu {
 	//delcaring variables for menu
 	public static Scanner in= new Scanner(System.in);
