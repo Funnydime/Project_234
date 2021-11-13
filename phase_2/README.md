@@ -7,7 +7,7 @@
 >> - Type in **cd**
 >> - Press enter
 >> - Type in **cd Desktop**
->> 	- As this will be where the project is located
+>>  - As this will be where the project is located
 
 -----------------------------------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@
 >> - Type in **cd phase_2**
 > Now we use `javac` and `java`
 >> - Type in **javac Main.java**
->> 	- This makes the program runable
+>>  - This makes the program runable
 >> - Type in **java Main**
 
 -----------------------------------------------------------------------------------------------------
