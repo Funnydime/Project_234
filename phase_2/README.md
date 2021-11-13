@@ -7,14 +7,14 @@
 >> - Type in **cd**
 >> - Press enter
 >> - Type in **cd Desktop**
->>  - As this will be where the project is located
+>>   As this will be where the project is located
 
 -----------------------------------------------------------------------------------------------------
 
 ## Downloading the repository
 
 > Now enter this:
->> **git clone [https://github.com/Funnydime/planets.git](https://github.com/Funnydime/planets.git)**
+>> **git clone [https://github.com/Funnydime/Project_234.git](https://github.com/Funnydime/Project_234.git)**
 >> 	This will download the repository in you Desktop for easy access
 
 -----------------------------------------------------------------------------------------------------
@@ -26,7 +26,7 @@
 >> - Type in **cd phase_2**
 > Now we use `javac` and `java`
 >> - Type in **javac Main.java**
->>  - This makes the program runable
+>>   This makes the program runable
 >> - Type in **java Main**
 
 -----------------------------------------------------------------------------------------------------
