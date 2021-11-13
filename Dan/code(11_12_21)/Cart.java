@@ -1,7 +1,6 @@
-//importing necessary java files
 import java.util.Map;
 import java.util.HashMap;
-//Cart class extends Search class
+
 public class Cart extends Search{
 	//declaring variables needed for the cart class
 	private static int Cartindex = 1;

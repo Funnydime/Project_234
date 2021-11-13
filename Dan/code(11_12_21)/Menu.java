@@ -1,6 +1,5 @@
-//importing necessary java packages
 import java.util.Scanner;
-//Menu class created due to length and amount of menus
+
 public class Menu {
 	//delcaring variables for menu
 	public static Scanner in= new Scanner(System.in);
@@ -49,6 +48,7 @@ public class Menu {
 				if(!Cart.Cartitems.isEmpty()) {
 					//prints out cart to show user the options to select from
 					Cart.ViewCart();
+					System.out.println("If you want more than one book use a \",\" to separate values. Ex. 1,2,4 or 1,4,7");
 					System.out.println("\nPlease select a book to remove.\n(a)ll books\n(q)uit");
 					//prompting user input
 					input=in.nextLine();
@@ -147,7 +147,7 @@ public class Menu {
 				Search.ISBN(input);
 		
 			}
-			//if "i" is selected, it will search by the Title Method within the search class with input parameters
+			//if "t" is selected, it will search by the Title Method within the search class with input parameters
 			else if(input.equals("t")) {
 				
 				System.out.println("Search supports wildcard. ex. \"B\" returns \"Book1, Book2\", etc...");
