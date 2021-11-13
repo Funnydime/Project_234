@@ -4,18 +4,24 @@
 
 > You are gonna start by:
 >> - Pressing the windows key on your keyboard
->> - Type in **cd**
+>> - Type in **cmd**
 >> - Press enter
 >> - Type in **cd Desktop**
->>   As this will be where the project is located
+>> -- As this will be where the project is located
 
 -----------------------------------------------------------------------------------------------------
 
 ## Downloading the repository
 
+**Skip this step if you have all ready download the repository**
+
 > Now enter this:
 >> **git clone [https://github.com/Funnydime/Project_234.git](https://github.com/Funnydime/Project_234.git)**
->> 	This will download the repository in you Desktop for easy access
+>> This will download the repository in you Desktop for easy access 
+
+## From Website
+
+>Type in **cd Downloads/Project_234/phase_2**
 
 -----------------------------------------------------------------------------------------------------
 
@@ -33,4 +39,26 @@
 
 # Menu
 
-## 
+## Start
+
+The program greets the user buy checking the database and log.
+While saying **Welcome to the BookStore**
+
+>There will be 4 options:
+>> - (s)earch menu
+>> - (c)art menu
+>> - (v)iew log
+>> - (q)uit
+
+The user will enter the letter in parentheses.
+
+## Search
+
+The following will happen if the user selects the (s)earch option
+>It will give you 6 more options to search by:
+>> - (a)uthor
+>> - (i)sbn
+>> - (t)itle
+>> - (m)ain menu
+>> - (c)art menu
+>> - (q)uit
