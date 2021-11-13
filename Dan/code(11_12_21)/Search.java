@@ -1,4 +1,4 @@
-//importing necessary java files
+
 import java.util.Map;
 import java.util.HashMap;
 import java.io.BufferedReader;
@@ -9,7 +9,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths; 
 import java.util.Scanner;
 
-//Search class extends Menu class
+
 public class Search extends Menu{
 	//Declaring variables needed for the Search class 
 	private static Map<Integer, String> SearchResults = new HashMap<Integer, String>();
