@@ -147,7 +147,7 @@ public class Menu {
 				Search.ISBN(input);
 		
 			}
-			//if "i" is selected, it will search by the Title Method within the search class with input parameters
+			//if "t" is selected, it will search by the Title Method within the search class with input parameters
 			else if(input.equals("t")) {
 				
 				System.out.println("Search supports wildcard. ex. \"B\" returns \"Book1, Book2\", etc...");
