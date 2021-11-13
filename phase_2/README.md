@@ -52,6 +52,8 @@ While saying **Welcome to the BookStore**
 
 The user will enter the letter in parentheses.
 
+-----------------------------------------------------------------------------------------------------
+
 ## Search
 
 The following will happen if the user selects the (s)earch option
@@ -62,3 +64,24 @@ The following will happen if the user selects the (s)earch option
 >> - (m)ain menu
 >> - (c)art menu
 >> - (q)uit
+
+-----------------------------------------------------------------------------------------------------
+
+## Cart
+
+Choosing cart the following will happen:
+>It will also give you 6 options
+>> - (v)iew cart
+>> - (r)emove item
+>> - (s)earch menu
+>> - (m)ain menu
+>> - (c)heckout
+>> - (q)uit
+
+-----------------------------------------------------------------------------------------------------
+
+## Log
+
+Log will display a list of what has been checkout
+
+-----------------------------------------------------------------------------------------------------
