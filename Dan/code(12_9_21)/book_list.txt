@@ -1,0 +1,60 @@
+David Copperfield,Charles Dickens,979867,32
+The Sound and the Fury,William Faulkner,978939,32
+The Magic Mountain,Thomas Mann,978880,32
+Crime and Punishment,Fyodor Dostoyoesvsky,978842,32
+Wuthering Heights,Emily Bronte,978819,32
+The Stanger,Albert Camus,978343,32
+The Institute,Stephen King,978199,32
+Doctor Sleep,Stephen King,978198,32
+The Aeneid,Virgil,978197,32
+Billy Summers,Stephen King,978196,32
+IT,Stephen King,978193,32
+Anna Karenina,Leo Tolstoy,978185,32
+Misery,Stephen King,978157,32
+The Outsider,Stephen King,978154,32
+Gulliver's Travels,Johnathan Swift,978153,32
+The Green Mile,Stephen King,978152,32
+The Sun Also Rises,Ernest Hemingway,978151,32
+Catch-22,Joseph Heller,978145,32
+The Catcher in the Rye,J.D. Salinger,978142,32
+Beloved,Toni Morrison,978141,32
+War and Peace,Leo Tolstoy,978140,32
+Midnight's Children,Salman Rushdie,978083,32
+the Red and the Black,Stendhal,978082,32
+The Trial,Franz Kafka,978081,32
+Hamlet,William shakespeare,978076,32
+Pet Cemetary,Stephen King,978075,32
+The Great Gatsby,F. Scott FitzGerald,978074,32
+Ulysses,James Joyce,978068,32
+Collection Fiction,Jorge Louis Borges,978067,32
+Lolita,Vladimir Nobokov,978066,32
+Leaves of Grass,Walt Whitman,978065,32
+Jane Eyre,Charlotte Bronte,978055,32
+A Portrait of the Artist as a Young Man,James Joyce,978049,32
+The Adventures of Hucklberry Finn,Mark Twain,978047,32
+Cujo,Stephen King,978046,32
+Invisible Man,Ralph Ellison,978045,32
+The Stories of Anton Chekhov,Anton Checkov,978039,32
+Heart of Darkness,Joseph Conrad,978038,32
+The Shining,Stephen King,978035,32
+In Search of Lost Time,Marcel Proust,978033,32
+Salem's Lot,Stephen King,978032,32
+Carrie,Stephen King,978031,32
+One Thousand and One Nights,Geraldine McCaughrean,978029,32
+Mrs. Dalloway,Virginia Woolf,978028,32
+The Iliad,Homer,978026,32
+Pride and Prejudice,Jane Austin,978025,32
+Nineteen Eighty Four,George Orwell,978024,32
+The Brothers Karamazov,Fyodor Dostoyoesvsky,978019,32
+The Grapes of Wrath,John Steinbeck,978018,32
+Great Expectations,Charles Dickens,978017,32
+To the Lighthouse,Virginia Woolf,978016,32
+Alice's Adventurs in Wonderland,Lewis Carrol,978015,32
+Don Quixote,Miguel de Cervantes,978014,32
+Madame Bovary,Gustave Flaubert,978012,32
+The Odyssey,Homer,978011,32
+Moby Dick,Herman Melville,978010,32
+Middlemarch,George Eliot,978008,32
+To Kill a Mockingbird,Harper Lee,978007,32
+One Hundred Years of Solitude,Gabriel Garcia Marquez,978006,32
+Tristram Shandy,Laurence Sterne,978002,32
